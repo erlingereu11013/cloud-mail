@@ -13,7 +13,7 @@ enabled = true
 
 [[kv_namespaces]]
 binding = "kv"			#kv绑定名默认不可修改
-id = "aee2fad3260040719a3e0306e0978370"					#kv数据库id
+id = "6e4d4fdc94dd45ca8999476389f1c1df"					#kv数据库id
 
 #[[r2_buckets]]
 #binding = "r2"			#r2对象存储绑定名默认不可修改
